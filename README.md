@@ -4,6 +4,7 @@
 
 <br>
 <p align="center"><br>
+<h1> My Discord : </h1>
   <a href="https://github.com/UsuxlDev">
 <img src="https://discord.c99.nl/widget/theme-3/654377768473067530.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/654377768473067530.png" style="max-width:100%;">
      </a>
