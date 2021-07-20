@@ -1,5 +1,5 @@
 <p align="center"><br>
-<small> Hello I am Usuxl <small>
+<b>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Kaneki</b>
 
 <p align="center"><br>
 <a href="https://discord.gg/y2yatNx4H5">
