@@ -1,5 +1,5 @@
 <p align="center"><br>
-<h1> Hello I am Usuxl </h1>
+<h2> Hello I am Usuxl </h2>
 
 <p align="center"><br>
 <a href="https://discord.gg/y2yatNx4H5">
