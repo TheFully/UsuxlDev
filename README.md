@@ -1,4 +1,7 @@
 <p align="center"><br>
+<h1> Hello I am Usuxl </h1>
+
+<p align="center"><br>
 <a href="https://discord.gg/y2yatNx4H5">
 <img src="https://discordapp.com/api/guilds/821878958621458464/widget.png?style=banner2" alt="Discord Banner 2"/>
   </p>
