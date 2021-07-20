@@ -1,5 +1,3 @@
-<p align="center"><br>
-<b>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Usuxl</b>
 
 <p align="center"><br>
 <a href="https://discord.gg/y2yatNx4H5">
