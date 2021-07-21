@@ -11,7 +11,7 @@
   </p>
 <br>
 <p align="center"><br>  
-  <img src="https://github-readme-stats.vercel.app/api?username=UsuxlDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UsuxlDev&&show_icons=true&title_color=ffffff&icon_color=a30303&text_color=daf7dc&bg_color=151515" />
 <br>
  
   
