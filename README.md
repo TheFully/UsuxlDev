@@ -14,6 +14,5 @@
   
 [<p align="center"><br><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UsuxlDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UClXCjiaVGWWSFdHtzWaQjMw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://asprotect.pasdidee.fr)
 <p align="center"><br>
-  
-<p align="center">![Profile views](https://gpvc.arturio.dev/UsuxlDev)  
+![Profile views](https://gpvc.arturio.dev/UsuxlDev)  
 
