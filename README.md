@@ -9,7 +9,6 @@
 <a href="https://discord.gg/y2yatNx4H5">
 <img src="https://discordapp.com/api/guilds/821878958621458464/widget.png?style=banner2" alt="Discord Banner 2"/>
   </p>
-<hr>
 <p align="center"><br>  
   <img src="https://github-readme-stats.vercel.app/api?username=UsuxlDev&&show_icons=true&title_color=a30303&icon_color=a30303&text_color=daf7dc&bg_color=151515" />
   
