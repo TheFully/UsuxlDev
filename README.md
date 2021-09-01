@@ -16,4 +16,4 @@
 <h3><p align="center">Nombre de visite :</h3><p align="center"><img src="https://profile-counter.glitch.me/UsuxlDev/count.svg" />
 
   <img src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FgRGPPO3l" />
-  <img src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FgRGPPO3l" data-canonical-src="https://discord.c99.nl/widget/theme-4/654377768473067530.png" style="max-width:100%;">
+
