@@ -11,7 +11,7 @@
 <img src="https://discordapp.com/api/guilds/821878958621458464/widget.png?style=banner2" alt="Discord Banner 2"/>
   </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsuxlDev&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UsuxlDev&count_private=true&&show_icons=true&theme=tokyonight" />
 </p>
   <hr />
 <h3><p align="center">Nombre de visite :</h3><p align="center"><img src="https://profile-counter.glitch.me/UsuxlDev/count.svg" />
