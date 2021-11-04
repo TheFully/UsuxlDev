@@ -10,7 +10,9 @@
 <a href="https://discord.gg/y2yatNx4H5">
 <img src="https://discordapp.com/api/guilds/821878958621458464/widget.png?style=banner2" alt="Discord Banner 2"/>
   </p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsuxlDev&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsuxlDev&layout=compact" />
+</p>
   <hr />
 <h3><p align="center">Nombre de visite :</h3><p align="center"><img src="https://profile-counter.glitch.me/UsuxlDev/count.svg" />
 
