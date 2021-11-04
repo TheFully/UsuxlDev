@@ -16,6 +16,6 @@
   <hr />
 <h3><p align="center">Nombre de visite :</h3><p align="center"><img src="https://profile-counter.glitch.me/UsuxlDev/count.svg" />
 <p align="center"
-![ing5erdiagram](https://i.imgur.com/fVaDzR5.gif) 
+<img src="https://i.imgur.com/fVaDzR5.gif"/> 
    </p>
 
