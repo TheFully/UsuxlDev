@@ -1,6 +1,6 @@
 <p align="center"><br>
   <a href="https://github.com/UsuxlDev">
-<img src="https://discord.c99.nl/widget/theme-4/654377768473067530.png" data-canonical-src="https://discord.c99.nl/widget/theme-4/654377768473067530.png" style="max-width:100%;">
+[![Discord Presence](https://lanyard.cnrad.dev/api/654377768473067530)](https://discord.com/users/654377768473067530)
      </a>
 <hr />  
 </p>
