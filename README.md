@@ -6,7 +6,7 @@
 <p align="center"><br>
 <h3><p align="center"> My server : </h3>
 <p align="center">
-<a href="https://discord.gg/y2yatNx4H5">
+<a href="https://discord.gg/yvpWrRSC8y">
 <img src="https://discordapp.com/api/guilds/821878958621458464/widget.png?style=banner2" alt="Discord Banner 2"/>
   </p>
 <p align="center">
