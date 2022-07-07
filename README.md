@@ -1,3 +1,4 @@
+![Discordo](https://lanyard-profile-readme.vercel.app/api/958141688214343770)
 <p align="center"><br>
   <a href="https://github.com/UsuxlDev">
      </a>
