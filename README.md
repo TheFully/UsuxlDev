@@ -1,5 +1,5 @@
-<p <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/654377768473067530?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
+<p align="center">
+	<img src="https://lanyard-profile-readme.vercel.app/api/654377768473067530?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=false"/>
  </br>
 <hr/>  
 </p>
