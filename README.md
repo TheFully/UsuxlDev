@@ -1,7 +1,7 @@
 <p align="center"><br>
   <a href="https://github.com/UsuxlDev">
      </a>
- ![Discordo](https://lanyard.cnrad.dev/api/654377768473067530)
+ ![Discordo](https://lanyard-profile-readme.vercel.app/api/654377768473067530)
 <hr />  
 </p>
 <p align="center"><br>
