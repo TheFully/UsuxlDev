@@ -6,8 +6,8 @@
 <p align="center"><br>
 <h3><p align="center"> My server : </h3>
 <p align="center">
-<a href="https://discord.gg/yvpWrRSC8y">
-<img src="https://discordapp.com/api/guilds/821878958621458464/widget.png?style=banner2" alt="Discord Banner 2"/>
+<a href="https://discord.gg/yvpWrRSC8y"/>
+<img src="https://discordapp.com/api/guilds/993989359940419614/widget.png?style=banner2" alt="Discord Banner 2"/>
   </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UsuxlDev&count_private=true&&show_icons=true&theme=tokyonight" />
