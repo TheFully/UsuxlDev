@@ -1,4 +1,4 @@
-<p align="center">
+
  ![Discordo](https://lanyard-profile-readme.vercel.app/api/654377768473067530)
  </br>
 <hr/>  
