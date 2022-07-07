@@ -1,7 +1,7 @@
 <p align="center"><br>
   <a href="https://github.com/UsuxlDev">
      </a>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/654377768473067530)](https://discord.com/users/654377768473067530)
+ ![Discordo](https://lanyard.cnrad.dev/api/654377768473067530)
 <hr />  
 </p>
 <p align="center"><br>
