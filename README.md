@@ -1,6 +1,7 @@
-<p align="center"></br>
+<p align="center">
  ![Discordo](https://lanyard-profile-readme.vercel.app/api/654377768473067530)
-</hr>  
+ </br>
+<hr/>  
 </p>
 <p align="center"><br>
 <h3><p align="center"> My server : </h3>
